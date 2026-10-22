@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hk-agent-skills",
+  "description": "Agent skills distilled from 200 articles on how Hong Kong people work: fast by default, verified always.",
+  "owner": {
+    "name": "Ka Ming Fung",
+    "url": "https://github.com/kamingfung"
+  },
+  "plugins": [
+    {
+      "name": "hk-agent-skills",
+      "description": "Seven skills (hk-sharp, hk-coding, hk-research, hk-comms, hk-execution, hk-incident, hk-deals) pairing Hong Kong-style speed with built-in verification.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

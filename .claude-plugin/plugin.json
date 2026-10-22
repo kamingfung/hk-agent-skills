@@ -1,0 +1,12 @@
+{
+  "name": "hk-agent-skills",
+  "version": "1.0.0",
+  "description": "Seven skills pairing Hong Kong-style speed, pragmatism and resourcefulness with built-in verification.",
+  "author": {
+    "name": "Ka Ming Fung",
+    "url": "https://github.com/kamingfung"
+  },
+  "homepage": "https://github.com/kamingfung/hk-agent-skills",
+  "repository": "https://github.com/kamingfung/hk-agent-skills",
+  "license": "MIT"
+}

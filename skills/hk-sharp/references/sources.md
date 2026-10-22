@@ -1,0 +1,94 @@
+# Sources cited in this skill
+
+`S#` = Hong Kong strengths, `W#` = shortfalls and remedies. Full 200-article bibliography: https://github.com/kamingfung/hk-agent-skills/blob/main/SOURCES.md
+
+- S1. A Slow Eater's Guide to Surviving Hong Kong's Light-Speed Dining Culture — KRDO/CNN. https://krdo.com/news/2026/09/14/a-slow-eaters-guide-to-surviving-hong-kongs-light-speed-dining-culture/
+- S5. Doing Business in Hong Kong — Babel Group. https://www.babelgroup.co.uk/resources/doing-business-in/doing-business-in-hong-kong/
+- S6. Hong Kong Culture: Communication — SBS Cultural Atlas. https://culturalatlas.sbs.com.au/hong-kong-culture/hong-kong-culture-communication
+- S7. Cultural Considerations in Hong Kong — Rivermate. https://www.rivermate.com/guides/hong-kong/cultural-considerations
+- S8. Cha chaan teng — Wikipedia. https://en.wikipedia.org/wiki/Cha_chaan_teng
+- S9. Guide to Cha Chaan Teng Food and Lingo — Ovolo Hotels. https://ovolohotels.com/ovolo/blog/guide-to-cha-chaan-teng-food-and-lingo/
+- S10. Cantonese Phrases You Need to Know in Hong Kong Restaurants — Time Out HK. https://www.timeout.com/hong-kong/things-to-do/cantonese-phrases-you-need-to-know-in-hong-kong-restaurants
+- S13. Six Things You Should Know When Eating Dim Sum in Hong Kong — Culture Trip. https://theculturetrip.com/asia/hong-kong/articles/six-things-you-should-know-when-eating-dim-sum-in-hong-kong
+- S14. The 10 Commandments of Dim Sum — Cold Tea Collective. https://coldteacollective.com/the-10-commandments-of-dim-sum/
+- S15. Hong Kong-style milk tea — Wikipedia. https://en.wikipedia.org/wiki/Hong_Kong%E2%80%93style_milk_tea
+- S22. Plastics Industry: Post-war Industries — Hong Kong Memory. https://www.hkmemory.hk/en/collections-postwar_industries-manufacturing_industries-plastics-industry_focus.html
+- S23. Chieng Han-chow: Father of the Hong Kong Plastic Industry — Industrial History of HK. https://industrialhistoryhk.org/chieng-han-chow-father-of-the-hong-kong-plastic-industry/
+- S25. Being Pragmatic in Hong Kong Doesn't Mean Losing Core Values — Hong Kong Free Press. https://hongkongfp.com/2015/09/04/being-pragmatic-in-hong-kong-doesnt-mean-losing-core-values/
+- S28. Octopus card — Wikipedia. https://en.wikipedia.org/wiki/Octopus_card
+- S29. Hong Kong's Octopus Card Extends Its Tentacles — SecureIDNews. https://www.secureidnews.com/news-item/hong-kongs-octopus-card-extends-its-tentacles-the-pervasive-fare-collection-system-spreads-beyond-transit/
+- S31. The 'Rail plus Property' Model — McKinsey. https://mckinsey.com/capabilities/operations/our-insights/the-rail-plus-property-model
+- S33. MetroPlaza, Kwai Fong: A Hong Kong, Maybe World, Speed Record — CUHK HKAPI. https://hkapi.lib.cuhk.edu.hk/handle/msO8s77aBT/11204
+- S35. Hong Kong Bamboo Scaffolding Masters — Monocle. https://monocle.com/business/hong-kong-bamboo-scaffolding-masters/
+- S36. Hong Kong's Bamboo Scaffolders Preserve Ancient Technique — Gulf News. https://gulfnews.com/world/asia/hong-kongs-bamboo-scaffolders-preserve-ancient-technique-1.1683515301344
+- S37. 5 Top Space-Saving Ideas Found in Hong Kong — SCMP. https://amp.scmp.com/news/hong-kong/community/article/2145730/5-top-space-saving-ideas-found-hong-kong-living-and-dead
+- S38. Great & Small: Hong Kongers Have Mastered the Art of Saving Space — Igafencu. https://igafencu.com/articles/great-and-small
+- S44. The Hong Kong Way to Combat Covid-19: "Take Things in Our Own Hands" — Heinrich Böll Foundation. https://eu.boell.org/en/2020/05/04/hong-kong-way-combat-covid-19-take-things-our-own-hands
+- S46. Hong Kong's Typhoon Ragasa Triumph a Blueprint for Urban Resilience — The Standard. https://www.thestandard.com.hk/editorial/article/312459/Hong-Kongs-typhoon-Ragasa-triumph-a-blueprint-for-urban-resilience
+- S47. Smooth Handling of Typhoon Tapah Reflects Hong Kong's Preparedness — SCMP. https://www.scmp.com/opinion/comment/article/3324757/smooth-handling-typhoon-tapah-reflects-hong-kongs-preparedness
+- S48. Typhoon Ragasa: Preparation of Supplies Before Storm Approaches — HKBU Journalism. https://tyr-jour.hkbu.edu.hk/2025/09/23/typhoon-ragasa-preparation-of-supplies-before-storm-approaches/
+- S51. Lion Rock Spirit — Wikipedia. https://en.wikipedia.org/wiki/Lion_Rock_Spirit
+- S52. Lion Rock spirit still casting its spell on Hong Kong — SCMP. https://amp.scmp.com/news/hong-kong/education-community/article/2089601/lion-rock-spirit-still-casting-its-spell-hong
+- S53. Symbol of Hong Kong's can-do spirit (Lion Rock Road) — i-Discover Asia. https://i-discoverasia.com/walks/kowloon-city/locations/lion-rock-road
+- S61. Hong Kong Culture – Business Culture — SBS Cultural Atlas. https://culturalatlas.sbs.com.au/hong-kong-culture/hong-kong-culture-business-culture
+- S62. HKU Press book preview (9789622096165) — HKU Press. https://hkupress.hku.hk/image/catalog/pdf-preview/9789622096165.pdf
+- S65. Hong Kong 2003 Yearbook – Port chapter — HK Government. https://www.yearbook.gov.hk/2003/english/chapter13/13_10.html
+- S67. MTR Interim Report 2025 (operations) — MTR Corporation. https://www.mtr.com.hk/archive/corporate/en/investor/interim2025/E07.pdf
+- S69. In a more divided world, superconnector Hong Kong must get creative — SCMP. https://scmp.com/comment/opinion/article/3245504/more-divided-world-superconnector-hong-kong-must-get-creative
+- S70. Can Hong Kong truly live its Asia's world city brand? — SCMP (Janet Pau). https://scmp.com/opinion/hong-kong-opinion/article/3309532/can-hong-kong-truly-live-its-asias-world-city-brand
+- S77. Network Orchestration: Creating and Managing Global Supply Chains Without Owning Them — Wharton (Fung, Fung & Wind). https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/0904_Network_Orchestration_Creating_and_Managing.pdf
+- S78. Building a Company of Entrepreneurs — Korn Ferry Briefings. https://www.kornferry.com/insights/briefings-magazine/issue-1/62-building-a-company-of-entrepreneuers
+- S79. Li & Fung's Bruce Rockowitz: Managing Supply Chains in a Flat World — Knowledge at Wharton. https://knowledge.wharton.upenn.edu/article/li-fungs-bruce-rockowitz-managing-supply-chains-in-a-flat-world/
+- S80. Li & Fung 2006 — HBS case. https://store.hbr.org/product/li-fung-2006/307077
+- S81. Design Eight Five Two updates Hong Kong flat with sliding walls — Dezeen. https://www.dezeen.com/2017/01/30/design-eight-five-two-sliding-furniture-partitions-hong-kong-apartment-architecture/amp/
+- S82. Every Surface Serves a Purpose in This Tiny Apartment in Hong Kong — Dwell. https://Dwell.Com/article/izakaya-house-sim-plex-design-studio-tiny-apartment-hong-kong-0674e2c9
+- S85. HK rises to third on competitiveness (IMD 2025) — news.gov.hk. https://www.news.gov.hk/eng/2025/06/20250617/20250617_103758_720.html
+- S87. Hactl doubles down on automation — Air Cargo Week. https://aircargoweek.com/hactl-doubles-down-on-automation/
+- S91. Fearless at the worst of times: Hong Kong businessmen expand, start new ventures — SCMP. https://amp.scmp.com/news/hong-kong/hong-kong-economy/article/3081496/fearless-worst-times-hong-kong-businessmen-expand
+- S93. Negotiation style, speech accommodation and small talk in Sino-Western negotiations — PolyU. https://research.polyu.edu.hk/en/publications/negotiation-style-speech-accommodation-and-small-talk-in-sino-wes/
+- S94. Hong Kong's entrepreneurs are agile, have looked beyond borders — Business Standard (IANS). https://www.business-standard.com/article/news-ians/hong-kong-s-entrepreneurs-are-agile-have-looked-beyond-borders-117030500167_1.html
+- W14. Hong Kong's 'time is money' culture has killed courtesy — SCMP letter. https://amp.scmp.com/comment/letters/article/2159883/hong-kongs-time-money-culture-has-killed-courtesy-theres-no-need
+- W15. Explainer: What is Hong Kong's politeness drive all about? — SCMP. https://mcdn.i-scmp.com/news/hong-kong/hong-kong-economy/article/3265419/hong-kongs-politeness-drive-just-courtesy-call-amid-tourist-complaints-post-takes-look-past
+- W26. A Matter of Perspective — Advisor Perspectives (Matthews Asia). https://www.advisorperspectives.com/commentaries/2013/05/17/a-matter-of-perspective
+- W27. Timely accounts push trade — SCMP. https://www.scmp.com/article/379598/timely-accounts-push-trade
+- W28. Corporate short-termism: a review and research agenda — CityU Scholars. https://scholars.cityu.edu.hk/en/publications/corporate-short-termism-a-review-and-research-agenda/
+- W29. Dissertation on Hong Kong property speculation — eScholarship (UC Berkeley). https://escholarship.org/uc/item/3r14d2r5
+- W30. Aim for productive investment — SCMP. https://amp.scmp.com/article/244946/aim-productive-investment
+- W31. Li Ka-shing warns against speculating in HK's property market — The Edge Markets. https://www.theedgemarkets.com/article/li-kashing-warns-against-speculating-hks-property-market-says-report
+- W34. Values education in Hong Kong: Problems and possibilities — EdUHK. https://repository.eduhk.hk/en/publications/values-education-in-hong-kong-problems-and-possibilities-4/
+- W35. Lesson from Hong Kong: pragmatism vs liberalism — Foreign Policy in Focus. https://fpif.org/lesson-hong-kong-pragmatism-vs-liberalism/
+- W36. Freshfields whistleblowing survey 2023: spotlight on Hong Kong — Freshfields. https://riskandcompliance.freshfields.com/post/102isa6/freshfields-whistleblowing-survey-2023-spotlight-on-whistleblowing-trends-in-hon
+- W37. Long hours and domineering management are biggest concerns — Conventus Law (Deacons). https://conventuslaw.com/report/long-hours-and-domineering-management-are-biggest/
+- W38. Workplace bullying survey (2013) — CFSC / SCMP. https://www.cfsc.org.hk/cmsimg/doc/20130807 Vital Press Con-SCMP(online) v3.pdf
+- W40. Latest PISA results show Hong Kong education stuck inside the box — SCMP. https://www.scmp.com/opinion/hong-kong-opinion/article/3267560/latest-pisa-results-show-hong-kong-education-stuck-inside-box
+- W41. Hong Kong students rank below average in global creative thinking study — Young Post. https://www.youngpostclub.com/posties/kids/eye-news/article/3267794/hong-kong-students-rank-below-average-global-creative-thinking-study
+- W42. Hong Kong education system not preparing work-ready candidates — CIPD. https://www.cipd.org/uk/about/news-archive/hong-kong-education-system/
+- W43. Asia tops global school system rankings — British Council. https://opportunities-insight.britishcouncil.org/news/market-news/asia-tops-global-school-system-rankings
+- W44. Professor Kuo urges more self-study to cultivate creativity — CityU. https://www.cityu.edu.hk/en/media/news/2014/03/31/professor-kuo-urges-more-self-study-cultivate-creativity
+- W45. "Why doesn't 'Johnny' like mathematics?" — EdUHK. https://repository.eduhk.hk/en/publications/why-doesnt-johnny-like-mathematics-the-voices-of-senior-secondary/
+- W48. Amy Edmondson on Psychological Safety, Speaking Up, and Learning at Work — Lean Blog. https://www.leanblog.org/2020/01/amy-edmondson-psychological-safety-speaking-up/
+- W49. Why a sustainable pace is so important to agile teams — Mountain Goat Software. https://www.mountaingoatsoftware.com/blog/why-a-sustainable-pace-is-so-important-to-agile-teams
+- W50. Embracing failure: the surprising power of the premortem — Philanthropy Northwest. https://philanthropynw.org/index%2Ephp/resources/tgp/tools-insights/embracing-failure-it-happens-surprising-power-premortem
+- W59. Steel bars cut systematically with MTRC's knowledge at Hung Hom station — HKFP. https://hongkongfp.com/2018/06/28/steel-bars-cut-systematically-mtrcs-knowledge-hung-hom-station-says-subcontractor-boss/
+- W60. 5,000 steel bars, not 25, affected in MTR corner-cutting scandal — HKFP. https://www.hongkongfp.com/2018/06/26/5000-steel-bars-not-25-affected-mtr-corner-cutting-scandal-lawmaker-claims/
+- W63. Government response to SCL Commission recommendations (2023) — info.gov.hk. https://www.info.gov.hk/gia/general/202306/28/P2023062800641p.htm
+- W64. Duo guilty of substandard piling scam at Tin Chung Court — ICAC. https://www.icac.org.hk/en/p/press-archive/index_id_3364.html
+- W66. Why alarm bells are ringing in Hong Kong construction — SCMP. https://scmp.com/news/hong-kong/hong-kong-economy/article/3140401/why-alarm-bells-are-ringing-hong-kong-construction
+- W70. Hong Kong's service reputation — Varsity (CUHK). https://varsity.com.cuhk.edu.hk/?p=14099
+- W71. Verint/Ipsos Consumer Insights APAC — Ipsos. https://www.ipsos.com/sites/default/files/2017-07/Verint_Ipsos_Consumer-Insights_Deck_APAC_0.pdf
+- W80. Chabuduo: the perils of China's "good enough" attitude on manufacturing — Harris Sliwoski. https://harris-sliwoski.com/chinalawblog/the-perils-of-chinas-good-enough-attitude-on-manufacturing/
+- W81. What Chinese corner-cutting reveals about modernity — Aeon. https://aeon.co/essays/what-chinese-corner-cutting-reveals-about-modernity
+- W82. Overconfidence effect — Wikipedia. https://en.wikipedia.org/wiki/Overconfidence_effect
+- W83. The Dunning-Kruger effect — PsyBlog. https://www.spring.org.uk/2021/05/the-dunning-kruger-effect-why-the-incompetent-dont-know-theyre-incompetent.php
+- W84. How the Challenger disaster became a case study of "normalization of deviance" — Columbia Magazine. https://magazine.columbia.edu/article/challenger-disaster-normalization-deviance
+- W85. Boeing survey shows safety workers felt pressure from managers — CNBC. https://www.cnbc.com/2019/10/20/boeing-survey-shows-safety-workers-felt-pressure-from-managers-report.html
+- W86. Senate PSI releases new details of Boeing's safety failures — Sen. Blumenthal. https://www.blumenthal.senate.gov/newsroom/press/release/senate-permanent-subcommittee-on-investigations-releases-new-details-of-boeings-safety-failures-ahead-of-hearing-with-faa-administrator
+- W90. Shifting the burden — isee systems. https://blog.iseesystems.com/systems-thinking/shifting-the-burden/
+- W91. WHO classifies burnout as "occupational phenomenon" in ICD-11 — Becker's ASC. https://www.beckersasc.com/uncategorized/who-classifies-burnout-as-occupational-phenomenon-in-icd-11/
+- W92. Hurry sickness — Psychology Today. https://www.psychologytoday.com/us/blog/the-time-cure/201302/hurry-sickness
+- W93. Surgical safety checklist drops deaths and complications by more than one-third — Harvard Gazette. https://news.harvard.edu/gazette/story/2009/01/surgical-safety-checklist-drops-deaths-and-complications-by-more-than-one-third/
+- W95. Pre-mortem — Wikipedia. https://en.wikipedia.org/wiki/Pre-mortem
+- W96. Five whys — Wikipedia. https://en.wikipedia.org/wiki/Five_whys
+- W97. Postmortem culture: learning from failure — Google SRE Book. https://sre.google/sre-book/postmortem-culture/
+- W98. Toyota vs Ford andon cord culture difference — Lean Blog. https://www.leanblog.org/2007/02/toyota-ford-andon-cord-culture-difference/
+- W100. Handbook-first communication — GitLab. https://handbook.gitlab.com/handbook/company/culture/all-remote/handbook-first/
